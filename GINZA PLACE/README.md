@@ -6,3 +6,4 @@
 test
 
 ![ファサード](images/GINZA.pic_facade.png)
+<img width="200" alt="test" src="images/GINZA.pic_facade.png">
