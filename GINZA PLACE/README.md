@@ -4,3 +4,5 @@
 
 # 見出し２
 test
+
+![ファサード](images/GINZA.pic_facade.png)
