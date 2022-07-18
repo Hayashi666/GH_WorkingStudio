@@ -1,9 +1,13 @@
 # GINZA PLACEの編み込みパターンの再現
 <img width="300" alt="facade" src="images/GINZA.pic_facade.png"> <img width="325" alt="pattern" src="images/GINZA.ghPattern.png"><br>
+"白磁のような表情の菱型が連続するファサードは直線による構成でありながらゆったりとした曲線が連続し建築自体が上昇していくようなデザインで精緻さと優雅さを同時に表現しています"（GINZAPLACE HP[^1]より）<br>
+ <br>
+ 端に行くほど密になる編込みのようなこのパターンは、何らかの幾何学的な規則をもって作られているように見えます。このパターンを、個人的な推察により、幾何学的な操作での再現を試みました。<br>
 ## パターンの再現
-　GINZA PLACEのファサードは特徴的なパターンをしています。"透かし彫りの真っ白な器を両手で持ち上げたような"[^1]とホームページでは表現されていますが、このパターンは、何らかの幾何学的な規則をもって作られているように見えます。このパターンを、個人的な推察により、幾何学的な操作での再現を試みました。<br>
- [^1]: [GINZA PLACEホームページ](https://ginzaplace.jp/about/)
-
+<img width="200" alt="ginzaplace" src="images/GINZAPLACE.jpg"> <img width="200" alt="sukasi" src="images/sukasi.png"><br>
+　この不思議なパターンについて、ホームページでは"透かし彫りの真っ白な器を両手で持ち上げたような"[^1]と表現されています。確かに、透かし彫りの器を真横から見ると、GINZA PLACEのファサードと同様の、端部に行くほど密になる編込みのようなパターンが観察出来ます。ですが、GINZA PLACEのパターンは２次元平面上のパターンであり、３次元空間にある立体物である透かし彫りの器とは幾何学的には異なります。では何がこの二つの形状を結びつけているのでしょうか？<br>
+ 
+ ## 3次元立体物の投影
 <img width="300" alt="perspective" src="images/perspective_cut_cilinder.png"><br>
 <img width="300" alt="front" src="images/front_cut_cilinder.png"><br>
 <img width="300" alt="over" src="images/over_cut_cilinder.png"><br>
@@ -11,3 +15,4 @@
 <img width="300" alt="seriese" src="images/ellipse_seriese_focus.png"><br>
 <img width="300" alt="mirror1" src="images/mirror_elipse_1.png"><br>
 <img width="300" alt="mirror" src="images/mirror_elipse_finish.png"><br>
+ [^1]: [GINZA PLACEホームページ](https://ginzaplace.jp/about/)
