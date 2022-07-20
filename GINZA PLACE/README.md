@@ -8,7 +8,7 @@
  
  ## ３次元立体物の投影
 　私たちは普段3DのCGソフトを使用する際、画面上のオブジェクトを立体物として捉えています。このように平面の画面上のものを立体として捉えられるのは、「投影」という幾何学的操作によるものです。
-　投影にはいくつかの種類があり、用途によって使い分けられます。 
+　投影にはいくつかの種類があり、用途によって使い分けられます。<br>
 <img width="300" alt="perspective" src="images/perspective_cut_cilinder.png"><br>
 <img width="300" alt="front" src="images/front_cut_cilinder.png"><br>
 <img width="300" alt="over" src="images/over_cut_cilinder.png"><br>
